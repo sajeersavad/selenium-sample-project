@@ -1,0 +1,17 @@
+{
+  "tc003_checkoutTest": [
+    {
+      "rowID": "tc003_checkoutTest.01",
+      "description": "Purchasing Faded Short Sleeve T-shirts",
+      "shoppingItem" : "Faded Short Sleeve T-shirts",
+      "quantity" : "2"
+    },
+    {
+      "rowID": "tc003_checkoutTest.01",
+      "description": "Purchasing Blouse",
+      "shoppingItem" : "Blouse",
+      "quantity" : "1"
+    }
+    ]
+
+  }
